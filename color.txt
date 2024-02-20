@@ -1,0 +1,6 @@
+violet-500
+violet-800
+violet-400
+
+purple-400
+purple-300
